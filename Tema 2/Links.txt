@@ -1,0 +1,12 @@
+1.Aprende a usar la board:
+https://www.youtube.com/watch?v=ulsv7uxDZoc&t=42s
+
+2.Aprende el consepto  & pull down
+https://programarfacil.com/blog/arduino-blog/resistencia-pull-up-y-pull-down/
+
+3.Aprende a conecar un pulsador
+https://felixmaocho.wordpress.com/2013/01/19/arduino-como-funciona-u-se-utiliza-un-pulsador/
+
+4.Aprende a conecar el boton emergencia
+https://www.programmingelectronics.com/how-to-use-an-external-reset-button-with-arduino/
+
